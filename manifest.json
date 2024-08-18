@@ -1,0 +1,20 @@
+{
+    "short_name": "HRAMAS",
+    "name": "Hramas",
+    "icons": [
+      {
+        "src": "/images/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "#ff0000"
+  }
